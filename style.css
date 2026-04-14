@@ -82,6 +82,7 @@ footer {
   }
 
   #lista-projetos {
+    display: flex;
     flex-direction: column;
   }
 
